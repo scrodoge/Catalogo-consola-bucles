@@ -1,0 +1,183 @@
+{
+    "H001530": {
+    "Nombre": "ROSAS PEONIAS DEL JARDÍN",
+    "Categoria": "BOTÁNICA",
+    "Precio_Publico": 8699.9948,
+    "Cantidad": 573
+  },
+ 
+    "A20-2": {
+    "Nombre": "PAMPA",
+    "Categoria": "BOTÁNICA",
+   "Precio_Publico": 9000.0057,
+    "Cantidad": 552
+  },
+ 
+    "H000422-1": {
+    "Nombre": "TULIPANES SWEET",
+    "Categoria": "BOTÁNICA",
+   "Precio_Publico": 4400.0012,
+    "Cantidad": 532
+  },
+  
+    "0047-2": {
+    "Nombre": "ORQUIDEA X 9 FLOR",
+    "Categoria": "BOTÁNICA",
+   "Precio_Publico": 32300.0034,
+    "Cantidad": 455
+  },
+ 
+    "A-0020-3": {
+    "Nombre": "ESPIGA CAMBOMBA",
+    "Categoria": "BOTÁNICA",
+   "Precio_Publico": 22999.9987,
+    "Cantidad": 444
+  },
+ 
+   "DZ-1": {
+    "Nombre": "BATERIAS",
+    "Categoria": "BASES-FLOREROS-MATERAS",
+   "Precio_Publico": 1399.9993,
+    "Cantidad": 832
+  },
+ 
+     "E63B-025": {
+    "Nombre": "HOJA DE ORQUIDEA ARTIFICIAL",
+    "Categoria": "BASES-FLOREROS-MATERAS",
+   "Precio_Publico": 11399.9977,
+    "Cantidad": 587
+  },
+ 
+  "KP0501A": {
+    "Nombre": "BASE PLATOS DOLCE VITA SILVER",
+    "Categoria": "BASES-FLOREROS-MATERAS",
+   "Precio_Publico": 16000.0022,
+    "Cantidad": 387
+  },
+ 
+    "E75-3": {
+    "Nombre": "RAMA CAMPANITAS",
+    "Categoria": "BASES-FLOREROS-MATERAS",
+   "Precio_Publico": 10200.0017,
+    "Cantidad": 364
+  },
+ 
+     "H23-2": {
+    "Nombre": "RAMA PODOCARPUS",
+    "Categoria": "BASES-FLOREROS-MATERAS",
+   "Precio_Publico": 15100.0052,
+    "Cantidad": 276
+  },
+ 
+    "30-33": {
+    "Nombre": "TENEDOR POSTRE",
+    "Categoria": "MENAJE",
+   "Precio_Publico": 12199.999,
+    "Cantidad": 400
+  },
+ 
+    "30-10": {
+    "Nombre": "CUCHARA JASPER SOPA",
+    "Categoria": "MENAJE",
+   "Precio_Publico": 12799.997,
+    "Cantidad": 366
+  },
+ 
+    "1805-06": {
+    "Nombre": "TENEDOR STILETTO POSTRE",
+    "Categoria": "MENAJE",
+   "Precio_Publico": 20599.9948,
+    "Cantidad": 341
+  },
+ 
+    "1807-06": {
+    "Nombre": "CUCHARA POSTRE AMARA",
+    "Categoria": "MENAJE",
+   "Precio_Publico": 13299.9993,
+    "Cantidad": 281
+  },
+ 
+   "JM0042": {
+    "Nombre": "TAZA VICTORIA LOVE PEQUEÑO",
+    "Categoria": "MENAJE",
+   "Precio_Publico": 11099.9987,
+    "Cantidad": 244
+  },
+ 
+    "0740-2": {
+    "Nombre": "GOUT ACRILIC",
+    "Categoria": "LÁMPARAS",
+   "Precio_Publico": 30999.9998,
+    "Cantidad": 8.5
+  },
+ 
+    "2809-1": {
+    "Nombre": "LAMPARA TECHO",
+    "Categoria": "LÁMPARAS",
+   "Precio_Publico": 67481.1991,
+    "Cantidad": 4
+  },
+ 
+    "YWN-B35/S": {
+    "Nombre": "LAMPARA 16.5",
+    "Categoria": "LÁMPARAS",
+   "Precio_Publico": 0,
+    "Cantidad": 3
+  },
+ 
+    "1665-11": {
+    "Nombre": "APLIQUE PARED",
+    "Categoria": "LÁMPARAS",
+   "Precio_Publico": 47907.7578,
+    "Cantidad": 2
+  },
+ 
+    "5215-11": {
+    "Nombre": "SPOT DE TECHO",
+    "Categoria": "LÁMPARAS",
+   "Precio_Publico": 70168.9569,
+    "Cantidad": 2
+  },
+ 
+    "6450-14":{
+    "Nombre": "TORRE IFEL ACRILICA",
+    "Categoria": "PLATOS BASE",
+   "Precio_Publico": 8800.0024,
+    "Cantidad": 394
+  },
+ 
+    "4B7321":{
+    "Nombre": "PLATO ENTRADA OCEAN",
+    "Categoria": "PLATOS BASE",
+   "Precio_Publico": 11999.9957,
+    "Cantidad": 372
+  },
+ 
+    "P0559A": {
+    "Nombre": "PLATO BASE NIX",
+    "Categoria": "PLATOS BASE",
+   "Precio_Publico": 17900.0038,
+    "Cantidad": 316
+  },
+ 
+    "WB220-O": {
+    "Nombre": "PLATO ELIAH",
+    "Categoria": "PLATOS BASE",
+   "Precio_Publico": 11999.9957,
+    "Cantidad": 306
+  },
+ 
+    "YX7040": {
+    "Nombre": "PLATO BASE VERSALLES",
+    "Categoria": "PLATOS BASE",
+   "Precio_Publico": 15400.0042,
+    "Cantidad": 303
+  },
+ 
+     "962-CP": {
+    "Nombre": "PLATO BASE PANDORA",
+    "Categoria": "PLATOS BASE",
+   "Precio_Publico": 16000.0022,
+    "Cantidad": 294
+  }
+}

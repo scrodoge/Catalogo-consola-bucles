@@ -1,0 +1,55 @@
+// Definir la clase de objeto
+class Producto {
+    constructor(Referencia, Nombre,Categoria, Precio_Publico, Cantidad,) {
+      this.Referencia = Referencia;
+      this.Nombre = Nombre;
+      this.Categoria = Categoria;
+      this.Precio_Publico = Precio_Publico;
+      this.Cantidad = Cantidad;
+    
+    }
+  }
+  
+  // Crear la lista de objetos
+  const listaProductos = [
+    new Producto("H001530","ROSAS PEONIAS DEL JARDÍN","BOTÁNICA",8699.9948,573),
+    new Producto("A20-2","PAMPA","BOTÁNICA",9000.0057,552),
+    new Producto("H000422-1","TULIPANES SWEET","BOTÁNICA",4400.0012,532),
+    new Producto("0047-2","ORQUIDEA X 9 FLOR","BOTÁNICA",32300.0034,455),
+    new Producto("A-0020-3","ESPIGA CAMBOMBA","BOTÁNICA",22999.9987,444),
+    new Producto("DZ-1","BATERIAS","BASES-FLOREROS-MATERAS",1399.9993,832),
+    new Producto("E63B-025","HOJA DE ORQUIDEA ARTIFICIAL","BASES-FLOREROS-MATERAS",11399.9977,587),
+    new Producto("KP0501A","BASE PLATOS DOLCE VITA SILVER","BASES-FLOREROS-MATERAS",16000.0022,387),
+    new Producto("E75-3","RAMA CAMPANITAS","BASES-FLOREROS-MATERAS",10200.0017,364),
+    new Producto("H23-2","RAMA PODOCARPUS","BASES-FLOREROS-MATERAS",15100.0052,276),
+    new Producto("30-33","TENEDOR POSTRE","MENAJE",12199.999,400),
+    new Producto("30-10","CUCHARA JASPER SOPA","MENAJE",12799.997,366),
+    new Producto("1805-06","TENEDOR STILETTO POSTRE","MENAJE",20599.9948,341),
+    new Producto("1807-06","CUCHARA POSTRE AMARA","MENAJE",13299.9993,281),
+    new Producto("JM0042","TAZA VICTORIA LOVE PEQUEÑO","MENAJE",11099.9987,244),
+    new Producto("0740-2","GOUT ACRILIC","LÁMPARAS",30999.9998,8.5),
+    new Producto("2809-1","LAMPARA TECHO","LÁMPARAS",67481.1991,4),
+    new Producto("YWN-B35/S","LAMPARA 16.5","LÁMPARAS",0,3),
+    new Producto("1665-11","APLIQUE PARED","LÁMPARAS",47907.7578,2),
+    new Producto("5215-11","SPOT DE TECHO","LÁMPARAS",70168.9569,2),
+    new Producto("6450-14","TORRE IFEL ACRILICA","PLATOS BASE",8800.0024,394),
+    new Producto("4B7321","PLATO ENTRADA OCEAN","PLATOS BASE",11999.9957,372),
+    new Producto("P0559A","PLATO BASE NIX","PLATOS BASE",17900.0038,316),
+    new Producto("WB220-O","PLATO ELIAH","PLATOS BASE",11999.9957,306),
+    new Producto("YX7040","PLATO BASE VERSALLES","PLATOS BASE",15400.0042,303),
+    new Producto("962-CP","PLATO BASE PANDORA","PLATOS BASE",16000.0022,294),
+
+  ];
+  
+  // Imprimir la lista de productos
+  console.log(listaProductos);
+  
+  //Imprimir lista por Categoria
+  const Categorias = [...new Set(listaProductos.map(producto => producto.Categoria))];
+Categorias.forEach(Categoria => {
+  console.log(`Categoría: ${Categoria}`);
+  listaProductos
+    .filter(producto => producto.Categoria === Categoria)
+    .forEach(producto => console.log(`- ${producto.Nombre}`));
+});
+  
